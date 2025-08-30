@@ -1,0 +1,32 @@
+			ACCURACY ASSESSMENT
+LOCATION: temp_location				Sat Aug 30 11:15:56 2025
+MASK: none
+MAPS: MAP1 = (untitled) (rast_68b30797c1e9657 in PERMANENT)
+      MAP2 = (untitled) (rast_68b30797c1aae56 in PERMANENT)
+
+Error Matrix (MAP1: reference, MAP2: classification)
+Panel #1 of 1
+			  MAP1
+     cat#	2	4	Row Sum
+ M     2	552088	126483	678571
+ A     4	111655	14128217	14239872
+Col Sum		663743	14254700	14918443
+
+
+Cats	% Commission	% Omission	Estimated Kappa
+2	18.639612	16.822023	0.804925
+4	0.784101	0.887307	0.823764
+
+Kappa		Kappa Variance	MCC
+0.814235	0.000000	-1.543468
+
+Obs Correct	Total Obs	% Observed Correct
+14680305		14918443		98.403734
+
+MAP1 Category Description
+2:  (no description)
+4:  (no description)
+
+MAP2 Category Description
+2:  (no description)
+4:  (no description)
